@@ -1,4 +1,11 @@
 Satria Yudha - GAMIFICATION CLASS ( Rekayasa Perangkat Lunak ) 
-- setiap siswa menikmati proses belajarnya
+# setiap siswa menikmati proses belajarnya
   - partisipasi siswa meningkat dalam pembelajrannya
-  - engagement (keterlibatan) menyenangkan siswa dalam belajar
+  - student engagement (keterlibatan) menyenangkan siswa dalam belajar
+  
+  Langkah langkah untuk menerapkan Kelas Gamifikasi
+  1. menetukan tujuan pembelajaran ( goals ) 
+  2. menentukan ide besar perminan ( rules )
+  3. membuat skenario permainan
+  4. membuat desain aktiivtas pembelajaran
+  5. membentuk kelompok kelompok peserta, jika permainan dilaksanakan secara berkelompok
