@@ -1,11 +1,31 @@
 Satria Yudha - GAMIFICATION CLASS ( Rekayasa Perangkat Lunak ) 
-# setiap siswa menikmati proses belajarnya
-  - partisipasi siswa meningkat dalam pembelajrannya
-  - student engagement (keterlibatan) menyenangkan siswa dalam belajar
+TARGET ---> 
+  1. Meningkatkan Partisipasi Siswa
+  2. Menjaga keterlibatan yang menyenangkan secara terus menerus tanpa ada rasa paksaan
+TUJUAN --->
+  1. Setiap siswa menikmati Proses Belajar nya
+  2. Setiap siswa menyadari minat dan potensi nya ada dimana
   
-  Langkah langkah untuk menerapkan Kelas Gamifikasi
-  1. menetukan tujuan pembelajaran ( goals ) 
-  2. menentukan ide besar perminan ( rules )
-  3. membuat skenario permainan
-  4. membuat desain aktiivtas pembelajaran
-  5. membentuk kelompok kelompok peserta, jika permainan dilaksanakan secara berkelompok
+ELEMEN ELEMEN YANG HARUS DIPERSIAPKAN --->
+  1. ESTETIKA
+    - Mendesain atau merancang Tujuan Pembelajaran ( goals )
+      + seorang guru harus mampu memetakan Materi Materi apa saja yang menjadi materi esensial
+      + seorang guru harus mampu menyusun dan menerapkan materi materi esensial tersebut kedalam jumlah jam pelajaran (JP) 1 semester yang dimilikinya
+      + seorang guru harus mampu menentukan CAPAIAN MINIMUM PEMBELAJARAN dalam kegiatan Project Base Learning pada setiap akhir materi esensial tersebut
+      + seorang guru harus mampu mencari cara Penilian yang paling efektif dan se efisien mungkin
+      + seorang guru harus mampu mengevaluasi kegagalan setiap siswa dalam menyelesaikan tugas dan seorang guru harus mampu menemukan solusi penyelesaian yang terbaik
+      
+  2. MEKANIKA
+    - Menentukan ide besar permainan ( story )
+    - Menentukan skenario/peraturan permainan ( rules ) 
+      + seorang guru harus mampu menjelaskan dengan tepat, apa saja yang menjadi aturan yang harus dipatuhi oleh setiap siswa
+      + seorang guru harus mampu mendesain aktivitas apa saja yang akan dilaksanakan/dilalui oleh setiap siswa dalam tahapan tahapannya
+      + seorang guru harus mampu membuat kelompok belajar yang adil, dan sehat. 
+      
+  3. DINAMIKA
+    - Menetukan tindakan tindakan apa yang akan muncul saat bermain (gamifikasi)
+      + seorang guru harus mampu membangkitkan minat setiap siswa
+      + seorang guru harus mampu membuat tantangan dan harus jelas tantangannya apa dan harus diketahui kapan tantangan tersebut telah diatas. 
+    
+    
+    ## MENERAPKAN STRATEGI GAMIFIKASI DI KELAS RELATIF SEDERHANA, NAMUN YANG UTAMA ADALAH SEORANG GURU HARUS MAMPU MENGETAHUI APA YANG MENJADI KEBUTUHAN SISWA ##
