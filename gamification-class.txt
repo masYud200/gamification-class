@@ -29,3 +29,15 @@ ELEMEN ELEMEN YANG HARUS DIPERSIAPKAN --->
     
     
     ## MENERAPKAN STRATEGI GAMIFIKASI DI KELAS RELATIF SEDERHANA, NAMUN YANG UTAMA ADALAH SEORANG GURU HARUS MAMPU MENGETAHUI APA YANG MENJADI KEBUTUHAN SISWA ##
+    
+    === MERANCANG MATERI DATABASE DIKELAS 10 ====
+    
+Kelas 10
+- Mendesain atau merancang Tujuan Pembelajaran ( goals )
+      + seorang guru harus mampu memetakan Materi Materi apa saja yang menjadi materi esensial
+      + seorang guru harus mampu menyusun dan menerapkan materi materi esensial tersebut kedalam jumlah jam pelajaran (JP) 1 semester yang dimilikinya
+      + seorang guru harus mampu menentukan CAPAIAN MINIMUM PEMBELAJARAN dalam kegiatan Project Base Learning pada setiap akhir materi esensial tersebut
+      + seorang guru harus mampu mencari cara Penilian yang paling efektif dan se efisien mungkin
+      + seorang guru harus mampu mengevaluasi kegagalan setiap siswa dalam menyelesaikan tugas dan seorang guru harus mampu menemukan solusi penyelesaian yang terbaik
+    
+    
