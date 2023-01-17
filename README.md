@@ -1,2 +1,2 @@
 # gamification-class
-repository untuk menyimpan penerapan Gamifikasi Kelas
+belajar hal baru dengan suasana yang menyenangkan.
